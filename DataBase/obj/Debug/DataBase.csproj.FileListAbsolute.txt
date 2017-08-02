@@ -1,0 +1,15 @@
+C:\Users\brahm\Documents\Spring 2017\IP\FinalProject\ErrorLogger\DataBase\bin\Debug\DataBase.dll
+C:\Users\brahm\Documents\Spring 2017\IP\FinalProject\ErrorLogger\DataBase\bin\Debug\DataBase.pdb
+C:\Users\brahm\Documents\Spring 2017\IP\FinalProject\ErrorLogger\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Spring 2017\IP\FinalProject\ErrorLogger\DataBase\obj\Debug\DataBase.dll
+C:\Users\brahm\Documents\Spring 2017\IP\FinalProject\ErrorLogger\DataBase\obj\Debug\DataBase.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataBase\bin\Debug\DataBase.dll.config
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataBase\bin\Debug\DataBase.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataBase\bin\Debug\DataBase.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataBase\bin\Debug\EntityFramework.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataBase\bin\Debug\EntityFramework.xml
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataBase\obj\Debug\DataBase.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataBase\obj\Debug\DataBase.pdb

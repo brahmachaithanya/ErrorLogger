@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "HomePage";
+}
+
+<html>
+<head>
+    <link href="@Url.Content("~/Content/Style1.css")" rel="stylesheet" type="text/css" />
+    
+</head>
+<body>
+
+    
+    <ul id="list-nav">
+        <li class="first"><a>Home</a></li>
+        <li>@Html.ActionLink("Applications", "Index", "applications")</li>
+        <li>@Html.ActionLink("ErrorLogMenu", "Index", "error_log")</li>
+        @if (User.IsInRole("Admin"))
+            {
+        <li>@Html.ActionLink("Admin", "Index", "users")</li>
+        }
+         </ul>
+</body>
+</html>
+

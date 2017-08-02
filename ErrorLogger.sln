@@ -1,0 +1,112 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadersAndLogic", "Loadersandlogic\LoadersAndLogic.csproj", "{BD3FB4F5-195E-4E4C-8BF7-5DFF5D5BF624}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorLoggerModel", "ErrorLoggerModel\ErrorLoggerModel.csproj", "{93BD07D7-E31A-4ED1-9207-FC233CE93C66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTService", "RESTService\RESTService.csproj", "{09CC2AED-7721-4ED6-8872-25DFFBDC071C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication", "WebApplication\WebApplication.csproj", "{2FC05A38-FB8D-4A56-A9F5-70B0C5A989BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedCode", "SharedCode\SharedCode.csproj", "{0A4A01C7-1F44-4F14-AEBA-EC56415075C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{30ED3027-1A05-4EBF-B282-3424B102A0CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLL", "DLLLibrary\DLL.csproj", "{EA0819EC-25FB-4F3E-8D73-9489525335CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{0A4626B2-AA22-4D5D-807E-DF75721FA13C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{DAB7FC33-36A3-4036-9F1A-9250E49A0064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHarness", "TestHarness\TestHarness.csproj", "{FC5FCBDD-C994-437A-B3C0-3ED337C82C0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD3FB4F5-195E-4E4C-8BF7-5DFF5D5BF624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3FB4F5-195E-4E4C-8BF7-5DFF5D5BF624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3FB4F5-195E-4E4C-8BF7-5DFF5D5BF624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3FB4F5-195E-4E4C-8BF7-5DFF5D5BF624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93BD07D7-E31A-4ED1-9207-FC233CE93C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93BD07D7-E31A-4ED1-9207-FC233CE93C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93BD07D7-E31A-4ED1-9207-FC233CE93C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93BD07D7-E31A-4ED1-9207-FC233CE93C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09CC2AED-7721-4ED6-8872-25DFFBDC071C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CC2AED-7721-4ED6-8872-25DFFBDC071C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CC2AED-7721-4ED6-8872-25DFFBDC071C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CC2AED-7721-4ED6-8872-25DFFBDC071C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FC05A38-FB8D-4A56-A9F5-70B0C5A989BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC05A38-FB8D-4A56-A9F5-70B0C5A989BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC05A38-FB8D-4A56-A9F5-70B0C5A989BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC05A38-FB8D-4A56-A9F5-70B0C5A989BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A4A01C7-1F44-4F14-AEBA-EC56415075C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4A01C7-1F44-4F14-AEBA-EC56415075C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4A01C7-1F44-4F14-AEBA-EC56415075C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4A01C7-1F44-4F14-AEBA-EC56415075C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30ED3027-1A05-4EBF-B282-3424B102A0CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30ED3027-1A05-4EBF-B282-3424B102A0CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30ED3027-1A05-4EBF-B282-3424B102A0CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30ED3027-1A05-4EBF-B282-3424B102A0CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA0819EC-25FB-4F3E-8D73-9489525335CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA0819EC-25FB-4F3E-8D73-9489525335CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA0819EC-25FB-4F3E-8D73-9489525335CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA0819EC-25FB-4F3E-8D73-9489525335CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A4626B2-AA22-4D5D-807E-DF75721FA13C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4626B2-AA22-4D5D-807E-DF75721FA13C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4626B2-AA22-4D5D-807E-DF75721FA13C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4626B2-AA22-4D5D-807E-DF75721FA13C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB7FC33-36A3-4036-9F1A-9250E49A0064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB7FC33-36A3-4036-9F1A-9250E49A0064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB7FC33-36A3-4036-9F1A-9250E49A0064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB7FC33-36A3-4036-9F1A-9250E49A0064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC5FCBDD-C994-437A-B3C0-3ED337C82C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5FCBDD-C994-437A-B3C0-3ED337C82C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5FCBDD-C994-437A-B3C0-3ED337C82C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5FCBDD-C994-437A-B3C0-3ED337C82C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 11
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://brahmachaithanya.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DataBase\\DataBase.csproj
+		SccProjectName1 = DataBase
+		SccLocalPath1 = DataBase
+		SccProjectUniqueName2 = DataLayer\\DataLayer.csproj
+		SccProjectName2 = DataLayer
+		SccLocalPath2 = DataLayer
+		SccProjectUniqueName3 = DLLLibrary\\DLL.csproj
+		SccProjectName3 = DLLLibrary
+		SccLocalPath3 = DLLLibrary
+		SccProjectUniqueName4 = ErrorLoggerModel\\ErrorLoggerModel.csproj
+		SccProjectName4 = ErrorLoggerModel
+		SccLocalPath4 = ErrorLoggerModel
+		SccProjectUniqueName5 = Loadersandlogic\\LoadersAndLogic.csproj
+		SccProjectName5 = Loadersandlogic
+		SccLocalPath5 = Loadersandlogic
+		SccProjectUniqueName6 = Models\\Models.csproj
+		SccProjectName6 = Models
+		SccLocalPath6 = Models
+		SccProjectUniqueName7 = RESTService\\RESTService.csproj
+		SccProjectName7 = RESTService
+		SccLocalPath7 = RESTService
+		SccProjectUniqueName8 = SharedCode\\SharedCode.csproj
+		SccProjectName8 = SharedCode
+		SccLocalPath8 = SharedCode
+		SccProjectUniqueName9 = WebApplication\\WebApplication.csproj
+		SccProjectName9 = WebApplication
+		SccLocalPath9 = WebApplication
+		SccProjectUniqueName10 = TestHarness\\TestHarness.csproj
+		SccProjectName10 = TestHarness
+		SccLocalPath10 = TestHarness
+	EndGlobalSection
+EndGlobal

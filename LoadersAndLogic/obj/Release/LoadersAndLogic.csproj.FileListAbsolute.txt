@@ -1,0 +1,9 @@
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\Loadersandlogic\bin\Release\Loadersandlogic.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\Loadersandlogic\bin\Release\Loadersandlogic.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\Loadersandlogic\bin\Release\DataBase.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\Loadersandlogic\bin\Release\EntityFramework.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\Loadersandlogic\bin\Release\DataBase.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\Loadersandlogic\bin\Release\EntityFramework.xml
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\Loadersandlogic\obj\Release\LoadersAndLogic.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\Loadersandlogic\obj\Release\Loadersandlogic.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\Loadersandlogic\obj\Release\Loadersandlogic.pdb

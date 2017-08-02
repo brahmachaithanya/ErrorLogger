@@ -1,0 +1,9 @@
+C:\Users\brahm\Documents\Spring 2017\IP\New folder\Webapp1\Logger\bin\Debug\Logger.dll
+C:\Users\brahm\Documents\Spring 2017\IP\New folder\Webapp1\Logger\bin\Debug\Logger.pdb
+C:\Users\brahm\Documents\Spring 2017\IP\New folder\Webapp1\Logger\obj\Debug\ErrorLoggerModel.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Spring 2017\IP\New folder\Webapp1\Logger\obj\Debug\Logger.dll
+C:\Users\brahm\Documents\Spring 2017\IP\New folder\Webapp1\Logger\obj\Debug\Logger.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\ErrorLoggerModel\bin\Debug\Logger.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\ErrorLoggerModel\bin\Debug\Logger.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\ErrorLoggerModel\obj\Debug\Logger.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\ErrorLoggerModel\obj\Debug\Logger.pdb

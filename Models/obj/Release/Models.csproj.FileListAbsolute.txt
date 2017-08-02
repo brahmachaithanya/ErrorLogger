@@ -1,0 +1,10 @@
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\Models\bin\Release\Models.dll.config
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\Models\bin\Release\Models.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\Models\bin\Release\Models.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\Models\bin\Release\EntityFramework.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\Models\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\Models\bin\Release\EntityFramework.xml
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\Models\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\Models\obj\Release\Models.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\Models\obj\Release\Models.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\Models\obj\Release\Models.pdb

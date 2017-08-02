@@ -1,0 +1,21 @@
+C:\Users\brahm\Documents\Spring 2017\IP\FinalProject\ErrorLogger\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\brahm\Documents\Spring 2017\IP\FinalProject\ErrorLogger\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\brahm\Documents\Spring 2017\IP\FinalProject\ErrorLogger\DataLayer\bin\Debug\Models.dll
+C:\Users\brahm\Documents\Spring 2017\IP\FinalProject\ErrorLogger\DataLayer\bin\Debug\Models.pdb
+C:\Users\brahm\Documents\Spring 2017\IP\FinalProject\ErrorLogger\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Spring 2017\IP\FinalProject\ErrorLogger\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\brahm\Documents\Spring 2017\IP\FinalProject\ErrorLogger\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataLayer\bin\Debug\DataBase.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataLayer\bin\Debug\Models.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataLayer\bin\Debug\DataBase.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataLayer\bin\Debug\Models.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DataLayer\obj\Debug\DataLayer.pdb

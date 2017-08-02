@@ -1,0 +1,75 @@
+﻿@model PagedList.IPagedList<DataBase.error_log>
+
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Error Logs</h2>
+<head>
+    <link href="@Url.Content("~/Content/Style1.css")" rel="stylesheet" type="text/css" />
+</head>
+
+<div style="float:left; width:50%;">
+@using (Html.BeginForm("Index", "error_log", FormMethod.Get))
+{
+    <p>
+        @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<table class="table">
+    <tr bgcolor="#F5DEB3">
+        <th>
+            @Html.ActionLink("Error Message", "Index", new { sortOrder = ViewBag.NameSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            @Html.ActionLink("TimeStamp", "Index", new { sortOrder = ViewBag.DateSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            @Html.ActionLink("Category", "Index", new { sortOrder = ViewBag.CatSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+
+        <th>
+            @Html.ActionLink("AppID", "Index", new { sortOrder = ViewBag.AppSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.error_message)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.datetime)
+            </td>
+            <td>
+
+                @Html.ActionLink(item.error_type.error_cat_id, "Details", "error_type", new { id = item.error_type.error_cat_id.Trim() }, null)
+            </td>
+            <td>
+                @Html.ActionLink(item.application.app_id, "Index", "applications")
+            </td>
+
+        </tr>
+    }
+
+    
+
+</table>
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+    </div>
+
+
+
+    <div style="float:left; width:50%;">
+        <img src="@Url.Action("Charts","error_log")">
+    </div>
+
+

@@ -1,0 +1,10 @@
+C:\Users\brahm\Documents\Spring 2017\IP\FinalProject\ErrorLogger\SharedCode\bin\Debug\SharedCode.dll
+C:\Users\brahm\Documents\Spring 2017\IP\FinalProject\ErrorLogger\SharedCode\bin\Debug\SharedCode.pdb
+C:\Users\brahm\Documents\Spring 2017\IP\FinalProject\ErrorLogger\SharedCode\obj\Debug\SharedCode.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Spring 2017\IP\FinalProject\ErrorLogger\SharedCode\obj\Debug\SharedCode.dll
+C:\Users\brahm\Documents\Spring 2017\IP\FinalProject\ErrorLogger\SharedCode\obj\Debug\SharedCode.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\SharedCode\bin\Debug\SharedCode.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\SharedCode\bin\Debug\SharedCode.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\SharedCode\obj\Debug\SharedCode.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\SharedCode\obj\Debug\SharedCode.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\SharedCode\obj\Debug\SharedCode.pdb

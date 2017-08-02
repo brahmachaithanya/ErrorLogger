@@ -1,0 +1,86 @@
+﻿@model IEnumerable<DataBase.user>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>User Details</h2>
+<head>
+    <link href="@Url.Content("~/Content/Style1.css")" rel="stylesheet" type="text/css" />
+</head>
+
+<table class="table">
+    <tr bgcolor="#F5DEB3">
+        
+        <th>
+            @Html.DisplayNameFor(model => model.finstname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.lastname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.sign_up_date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.last_login)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.username)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.active_inactive)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.is_admin)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        
+        
+        <td>
+            @Html.DisplayFor(modelItem => item.finstname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.lastname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.sign_up_date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.last_login)
+        </td>
+        <th>
+            @Html.DisplayFor(model => item.username)
+        </th>
+        <td>
+            @Html.DisplayFor(modelItem => item.active_inactive)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.is_admin)
+        </td>
+        <td>
+            @if (User.IsInRole("Admin"))
+            {
+                if (item.active_inactive.Trim() == "inactive")
+                {
+                    @Html.ActionLink("Enable", "Disable", new { id = item.username.Trim() })
+                }
+                else
+                {
+                @Html.ActionLink("Disable", "Disable", new { id = item.username.Trim() })
+                    }
+                }
+        </td>
+    </tr>
+}
+
+</table>

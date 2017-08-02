@@ -1,0 +1,41 @@
+﻿@model IEnumerable<DataBase.error_type>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<head>
+    <link href="@Url.Content("~/Content/Style1.css")" rel="stylesheet" type="text/css" />
+</head>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.error_cat_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.error_cat_desc)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.error_cat_name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.error_cat_desc)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.error_cat_id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.error_cat_id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.error_cat_id })
+        </td>
+    </tr>
+}
+
+</table>

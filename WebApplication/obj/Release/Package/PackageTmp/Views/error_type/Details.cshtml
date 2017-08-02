@@ -1,0 +1,36 @@
+﻿@model DataBase.error_type
+
+@{
+    ViewBag.Title = "error_type";
+}
+
+<h2>Details</h2>
+<head>
+    <link href="@Url.Content("~/Content/Style1.css")" rel="stylesheet" type="text/css" />
+</head>
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.error_cat_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.error_cat_name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.error_cat_desc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.error_cat_desc)
+        </dd>
+
+    </dl>
+</div>
+<p>
+   
+    @Html.ActionLink("Back to List" ,"Index", "error_log")
+</p>

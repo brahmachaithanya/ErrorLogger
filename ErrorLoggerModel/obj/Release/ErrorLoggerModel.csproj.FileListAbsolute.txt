@@ -1,0 +1,5 @@
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\ErrorLoggerModel\bin\Release\Logger.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\ErrorLoggerModel\bin\Release\Logger.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\ErrorLoggerModel\obj\Release\ErrorLoggerModel.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\ErrorLoggerModel\obj\Release\Logger.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\ErrorLoggerModel\obj\Release\Logger.pdb

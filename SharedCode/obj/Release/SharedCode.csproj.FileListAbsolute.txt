@@ -1,0 +1,5 @@
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\SharedCode\bin\Release\SharedCode.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\SharedCode\bin\Release\SharedCode.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\SharedCode\obj\Release\SharedCode.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\SharedCode\obj\Release\SharedCode.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\SharedCode\obj\Release\SharedCode.pdb

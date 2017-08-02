@@ -1,0 +1,31 @@
+C:\Users\doomhmmr\Desktop\LoggerTest\LoggerTest\bin\Debug\LoggerTest.exe.config
+C:\Users\doomhmmr\Desktop\LoggerTest\LoggerTest\bin\Debug\LoggerTest.exe
+C:\Users\doomhmmr\Desktop\LoggerTest\LoggerTest\bin\Debug\LoggerTest.pdb
+C:\Users\doomhmmr\Desktop\LoggerTest\LoggerTest\bin\Debug\SampleLogger.dll
+C:\Users\doomhmmr\Desktop\LoggerTest\LoggerTest\bin\Debug\SampleLogger.pdb
+C:\Users\doomhmmr\Desktop\LoggerTest\LoggerTest\obj\Debug\LoggerTest.csprojResolveAssemblyReference.cache
+C:\Users\doomhmmr\Desktop\LoggerTest\LoggerTest\obj\Debug\LoggerTest.exe
+C:\Users\doomhmmr\Desktop\LoggerTest\LoggerTest\obj\Debug\LoggerTest.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\08 Week 8 - Databases - SQL and Design\Code - 02 - LoggerTestHarness\LoggerTest\bin\Debug\LoggerTest.exe.config
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\08 Week 8 - Databases - SQL and Design\Code - 02 - LoggerTestHarness\LoggerTest\obj\Debug\LoggerTest.exe
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\08 Week 8 - Databases - SQL and Design\Code - 02 - LoggerTestHarness\LoggerTest\obj\Debug\LoggerTest.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\08 Week 8 - Databases - SQL and Design\Code - 02 - LoggerTestHarness\LoggerTest\bin\Debug\LoggerTest.exe
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\08 Week 8 - Databases - SQL and Design\Code - 02 - LoggerTestHarness\LoggerTest\bin\Debug\LoggerTest.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\08 Week 8 - Databases - SQL and Design\Code - 02 - LoggerTestHarness\LoggerTest\bin\Debug\SampleLogger.dll
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\08 Week 8 - Databases - SQL and Design\Code - 02 - LoggerTestHarness\LoggerTest\bin\Debug\SampleLogger.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\08 Week 8 - Databases - SQL and Design\Code - 02 - LoggerTestHarness\LoggerTest\obj\Debug\LoggerTest.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\12 Week 13 - IIS, Test Harness\Code - 01 - LoggerTestHarness\LoggerTest\bin\Debug\LoggerTest.exe.config
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\12 Week 13 - IIS, Test Harness\Code - 01 - LoggerTestHarness\LoggerTest\obj\Debug\LoggerTest.exe
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\12 Week 13 - IIS, Test Harness\Code - 01 - LoggerTestHarness\LoggerTest\obj\Debug\LoggerTest.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\12 Week 13 - IIS, Test Harness\Code - 01 - LoggerTestHarness\LoggerTest\bin\Debug\LoggerTest.exe
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\12 Week 13 - IIS, Test Harness\Code - 01 - LoggerTestHarness\LoggerTest\bin\Debug\LoggerTest.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\12 Week 13 - IIS, Test Harness\Code - 01 - LoggerTestHarness\LoggerTest\bin\Debug\SampleLogger.dll
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\12 Week 13 - IIS, Test Harness\Code - 01 - LoggerTestHarness\LoggerTest\bin\Debug\SampleLogger.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\12 Week 13 - IIS, Test Harness\Code - 01 - LoggerTestHarness\LoggerTest\obj\Debug\LoggerTest.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Spring2017\IP\lab 13\Code - 01 - LoggerTestHarness\LoggerTest\bin\Debug\LoggerTest.exe.config
+C:\Users\brahm\Documents\Spring2017\IP\lab 13\Code - 01 - LoggerTestHarness\LoggerTest\obj\Debug\LoggerTest.exe
+C:\Users\brahm\Documents\Spring2017\IP\lab 13\Code - 01 - LoggerTestHarness\LoggerTest\obj\Debug\LoggerTest.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\LoggerTest\bin\Debug\LoggerTest.exe.config
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\LoggerTest\obj\Debug\LoggerTest.exe
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\LoggerTest\obj\Debug\LoggerTest.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\LoggerTest\obj\Debug\LoggerTest.csprojResolveAssemblyReference.cache

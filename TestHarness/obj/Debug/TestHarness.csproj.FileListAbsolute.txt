@@ -1,0 +1,16 @@
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\TestHarness\bin\Debug\TestHarness.exe.config
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\TestHarness\bin\Debug\TestHarness.exe
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\TestHarness\bin\Debug\TestHarness.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\TestHarness\bin\Debug\DLLLibrary.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\TestHarness\bin\Debug\DataBase.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\TestHarness\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\TestHarness\bin\Debug\EntityFramework.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\TestHarness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\TestHarness\bin\Debug\DLLLibrary.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\TestHarness\bin\Debug\DataBase.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\TestHarness\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\TestHarness\bin\Debug\EntityFramework.xml
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\TestHarness\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\TestHarness\obj\Debug\TestHarness.exe
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\TestHarness\obj\Debug\TestHarness.pdb

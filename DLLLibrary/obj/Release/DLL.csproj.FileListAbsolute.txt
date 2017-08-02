@@ -1,0 +1,15 @@
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DLLLibrary\bin\Release\DLLLibrary.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DLLLibrary\bin\Release\DLLLibrary.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DLLLibrary\bin\Release\DataBase.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DLLLibrary\bin\Release\Newtonsoft.Json.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DLLLibrary\bin\Release\SharedCode.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DLLLibrary\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DLLLibrary\bin\Release\EntityFramework.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DLLLibrary\bin\Release\DataBase.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DLLLibrary\bin\Release\SharedCode.pdb
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DLLLibrary\bin\Release\Newtonsoft.Json.xml
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DLLLibrary\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DLLLibrary\bin\Release\EntityFramework.xml
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DLLLibrary\obj\Release\DLL.csprojResolveAssemblyReference.cache
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DLLLibrary\obj\Release\DLLLibrary.dll
+C:\Users\brahm\Documents\Spring2017\IP\FinalProject\ErrorLogger\DLLLibrary\obj\Release\DLLLibrary.pdb

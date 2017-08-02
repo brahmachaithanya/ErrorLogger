@@ -1,0 +1,82 @@
+﻿@model IEnumerable<DataBase.application>
+
+@{
+    ViewBag.Title = "Applications";
+}
+<head>
+    <link href="@Url.Content("~/Content/Style1.css")" rel="stylesheet" type="text/css" />
+    </head>
+
+    <h2>Applications</h2>
+
+    <p>
+        @if (User.IsInRole("Admin"))
+        {
+            @Html.ActionLink("Register New Application", "Create")
+        }
+       
+    </p>
+    <table class="table">
+        <tr bgcolor="#F5DEB3">
+
+
+            <th>
+                @Html.DisplayNameFor(model => model.app_id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.app_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.app_description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.owner)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.reg_date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.is_active)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.app_id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.app_name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.app_description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.owner)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.reg_date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.is_active)
+                </td>
+                <td>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        if (item.is_active.Trim() == "no")
+                        {
+                            @Html.ActionLink("Enable", "Disable", new { id = item.app_id.Trim() })
+                        }
+                        else
+                        {
+                            @Html.ActionLink("Disable", "Disable", new { id = item.app_id.Trim() })
+                        }
+                    }
+                       
+                </td>
+            </tr>
+        }
+
+    </table>

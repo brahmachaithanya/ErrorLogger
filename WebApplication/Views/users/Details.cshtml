@@ -1,0 +1,78 @@
+﻿@model DataBase.user
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+<head>
+    <link href="@Url.Content("~/Content/Style1.css")" rel="stylesheet" type="text/css" />
+</head>
+<div>
+    <h4>user</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        
+
+        <dt>
+            @Html.DisplayNameFor(model => model.is_admin)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.is_admin)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.finstname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.finstname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.lastname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.lastname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.sign_up_date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.sign_up_date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.last_login)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.last_login)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.active_inactive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.active_inactive)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.username }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
